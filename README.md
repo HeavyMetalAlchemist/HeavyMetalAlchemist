@@ -37,7 +37,9 @@ Woven by Toyota.
 | Project | Type | Description |
 |---|---|---|
 | [LLM Uncertainty Quantification](https://github.com/HeavyMetalAlchemist/llm-uncertainty-quantification) | Research | Confidence calibration and error detection across math reasoning and factual QA |
+| [LLM Fine-tuning with LoRA](https://github.com/HeavyMetalAlchemist/phi3-lora-structured-output) | Engineering | End-to-end LoRA fine-tuning pipeline for structured JSON output generation on AWS EC2 |
 | [PDF RAG API](https://github.com/HeavyMetalAlchemist/pdf-rag-api) | Engineering | REST API for PDF-based question answering with page-level citations and OTel tracing |
+| [GitHub Issue Triage](https://github.com/HeavyMetalAlchemist/github-issue-triage) | Engineering | AI-powered streaming pipeline for GitHub issue classification with Redis Streams and Grafana observability |
 
 ---
 
